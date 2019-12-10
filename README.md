@@ -1,3 +1,8 @@
-# Cars With Class - Solution
+# Cars With Class
 
-A set of solutions to the object-oriented [Classy Cars]() challenge.
+An object-oriented challenge.
+
+```bash
+npm install
+npm test
+```
