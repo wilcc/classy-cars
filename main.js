@@ -1,4 +1,4 @@
-class Train {
+class Vehicle {
 }
 
 class Car {
